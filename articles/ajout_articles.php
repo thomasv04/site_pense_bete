@@ -46,6 +46,7 @@ include '../connexion.php';
         ?>
 
 
+
         <div class="section-articles">
             <select id="select">
                 <option value="valeur1">HTML</option>
